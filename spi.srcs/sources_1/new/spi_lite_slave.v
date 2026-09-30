@@ -5,7 +5,7 @@ module spi_lite_slave(
     input wire rst_n,           // �첽��λ���͵�ƽ��Ч
     input wire spi_start,       // �����ź�
     input wire [7:0] datain,    // ����������
-    output reg cs,              // Ƭѡ�ź�
+    output regg cs,              // Ƭѡ�ź�
     output reg sck,             // SPIʱ��
     output reg mosi,            // �������
     output reg spi_done         // ��������ź�
