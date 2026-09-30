@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Sep 24 10:53:16 2026
+# Process ID: 26500
+# Current directory: C:/Users/Lenovo/Desktop/in_class/Microelectronics_Experiment/ex7/spi
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20644 C:\Users\Lenovo\Desktop\in_class\Microelectronics_Experiment\ex7\spi\spi.xpr
+# Log file: C:/Users/Lenovo/Desktop/in_class/Microelectronics_Experiment/ex7/spi/vivado.log
+# Journal file: C:/Users/Lenovo/Desktop/in_class/Microelectronics_Experiment/ex7/spi\vivado.jou
+# Running On: LAPTOP-9HA13IAA, OS: Windows, CPU Frequency: 2495 MHz, CPU Physical cores: 32, Host memory: 33487 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Lenovo/Desktop/in_class/Microelectronics_Experiment/ex7/spi/spi.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source simmm.tcl
+close_sim
